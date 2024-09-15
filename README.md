@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Someone
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Nothing))
+- ⚡ Fun fact: Nothing)))
 
 <!---
 AndyGHexp/AndyGHexp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
